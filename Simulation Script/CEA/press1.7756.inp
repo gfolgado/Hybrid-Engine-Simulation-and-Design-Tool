@@ -1,0 +1,13 @@
+problem
+o/f=1.6129,
+    rocket  nfz=1
+  p,bar=1.7756,
+   subsonic,ae/at=5.9900,
+   supersonic,ae/at=5.9900,
+react
+  fuel=C32H66(a) wt=0.950 t,k=298.150
+  fuel=stacid wt=0.050 t,k=298.150
+  h,kj/mol=-912.000 C 18 H 36 O 2
+  oxid=N2O(L),298.15K wt=1.000 t,k=298.150
+output siunits short
+end
